@@ -3,13 +3,13 @@ import { getAuth } from "firebase/auth";
 import { getDatabase } from "firebase/database";
 import { getFirestore } from "firebase/firestore";
 const firebaseConfig = {
-  apiKey: "AIzaSyBusuIqtHUjDGbj54gJaDLNGBeXba2C0fA",
-  authDomain: "shinshop-464ff.firebaseapp.com",
-  projectId: "shinshop-464ff",
-  storageBucket: "shinshop-464ff.appspot.com",
-  messagingSenderId: "803072927598",
-  appId: "1:803072927598:web:16d1568bf98feac7cf037f",
-  measurementId: "G-5NEQNWDSG3",
+  apiKey: "AIzaSyCHoFOKnPTRleYhejTxolUneswT_anE5Ys",
+  authDomain: "smallershop-1a1c3.firebaseapp.com",
+  projectId: "smallershop-1a1c3",
+  storageBucket: "smallershop-1a1c3.appspot.com",
+  messagingSenderId: "194191002589",
+  appId: "1:194191002589:web:06c0b67d6a948867504434",
+  measurementId: "G-JSCKGQL3G9",
 };
 
 export const app = initializeApp(firebaseConfig);
